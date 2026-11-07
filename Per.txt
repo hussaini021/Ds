@@ -1,13 +1,6 @@
 {
-  "OM-W4APWN": {
-    "active": true,
-    "expiresAt": "2027-09-30"
-  }
-  "OM-6MSP59": {
-    "active": true,
-    "expiresAt": "2027-10-5"
-  }
+  "OM-W4APWN": { "active": true, "expiresAt": "2027-11-06" },
+  "OM-6MSP59": { "active": true, "expiresAt": "2027-11-06" }
 }
-{ "OM-W4APWN": { "active": true, "expiresAt": "2027-11-06" } }
-{ "OM-6MSP59": { "active": true, "expiresAt": "2027-11-06" } }
+
 خیاطی امید
